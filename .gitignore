@@ -1,0 +1,10 @@
+
+.godot
+.idea
+.vscode
+
+export_presets.cfg
+icon.svg
+*.import
+project.godot
+*.tscn
